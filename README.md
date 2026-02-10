@@ -16,7 +16,7 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Lucas Anjos
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/lucas-almeida-dos-anjos-821670212/)
+### Linkedin: (https://www.linkedin.com/in/lucas-almeida-dos-anjos-821670212/)
 
 ```
 
