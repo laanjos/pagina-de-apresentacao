@@ -124,8 +124,7 @@ body {
 }
 
 @media (max-width: 1023px){
-
-    .cabecalho{
+   .cabecalho{
         padding: 10%;
     }
     
@@ -140,4 +139,31 @@ body {
     .apresentacao__conteudo{
         width: auto;
     }
+
+    .apresentacao__conteudo__titulo{
+    font-size: 2.25rem;
+    font-family: var(--font-destaque);
+    }
+    .apresentacao__conteudo__texto{
+    font-size: 1.0rem;
+   
+    }
+
+    .apresentacao__links__subtitulos{
+    font-size: 1.0rem;
+    }
+
+    .apresentacao__links__link{
+    font-size: 1.0rem;
+
+    }
+
+    .apresentacao__links__link:hover{
+    background-color: var(--cor-rodape);
+    transition: 0.3s;
+    }
+
+    .rodape{ 
+    font-size: 1.0rem;
+    } 
 }
