@@ -1,7 +1,8 @@
 # Pagina-de-apresentacao
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+<img width="1903" height="914" alt="image" src="https://github.com/user-attachments/assets/27b53b35-c4a4-4869-862b-5984003287f9" />
+
 
 ## Ferramentas utilizadas:
 
