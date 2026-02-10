@@ -137,12 +137,7 @@ body {
         flex-direction: column-reverse;
     }
 
-    .apresentacao__conteudo__titulo{
-        font-size: 1.5rem;
-    }
-
     .apresentacao__conteudo{
         width: auto;
-        font-size: 0.75rem;
     }
 }
