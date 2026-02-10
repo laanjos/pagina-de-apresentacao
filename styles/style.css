@@ -140,6 +140,11 @@ body {
         width: auto;
     }
 
+    .imagem {
+    max-width: 100%;
+    height: auto;
+    }
+
     .apresentacao__conteudo__titulo{
     font-size: 1.75rem;
     font-family: var(--font-destaque);
