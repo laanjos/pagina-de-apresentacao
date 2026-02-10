@@ -39,8 +39,10 @@ body {
     text-decoration: none;
 }
 
-.imagem{
-    width: 50%; 
+.imagem {
+    max-width: 50%;
+    height: auto;
+    display: block;
 }
 
 .apresentacao{
